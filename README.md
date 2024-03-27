@@ -6,4 +6,4 @@ pip install langchain pypdf sentence_transformers chromadb tiktoken openai
 
 
 參考資料 : https://edge.aif.tw/express-langchain-chatpdf/
-          https://www.youtube.com/watch?v=au2WVVGUvc8&t=180s
+          \n https://www.youtube.com/watch?v=au2WVVGUvc8&t=180s
