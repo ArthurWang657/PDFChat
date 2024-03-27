@@ -5,7 +5,7 @@ from langchain.vectorstores import Chroma
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-"
 file_path = "./林夏婷.pdf"
 loader = PyPDFLoader(file_path)
 splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0) 
